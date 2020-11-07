@@ -7,6 +7,6 @@ The aim to this task is to predict the percentage score of a person based on the
 DATASET: [Click here](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)  
 SOLUTION: [Click here](https://github.com/awpk/The-Sparks-foundation/blob/main/TASK1---Prediction-using-supervisedML.ipynb)  
 ### TASK 2 - Prediction using Unsupervised ML
-The aim of this task is to predict the optimum number of clusters fron the 'Iris' dataset and represent it visually. 
+The aim of this task is to predict the optimum number of clusters fron the 'Iris' dataset and represent it visually.  
 DATASET: [Click here](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view)  
-SOLUTION: [Click here](https://github.com/awpk/The-Sparks-Foundation/blob/main/TASK2---Prediction-using-unsupervisedML.ipynb)  
+SOLUTION: [Click here](https://github.com/awpk/The-Sparks-Foundation/blob/main/TASK2---Prediction-using-unsupervisedML.ipynb)    
